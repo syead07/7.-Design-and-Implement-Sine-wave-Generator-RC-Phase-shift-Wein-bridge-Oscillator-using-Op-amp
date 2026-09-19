@@ -64,16 +64,12 @@ Rf = 15K *2=30KΩ
 
 
   **CIRCUIT DIAGRAM**
-
-
   **MODEL GRAPH:**
-
-
   **TABULATION:**
- 
-
-
-
+ <img width="865" height="1600" alt="image" src="https://github.com/user-attachments/assets/bdefe4ab-fb11-4eb0-a11c-f2eaa942541c" />
+<img width="1193" height="1407" alt="image" src="https://github.com/user-attachments/assets/1cae55fc-e097-4e94-a76f-43fb40bebff4" />
+<img width="1047" height="1600" alt="image" src="https://github.com/user-attachments/assets/90523ddd-61d6-498e-9a80-f27126986ee0" />
+<img width="1132" height="1600" alt="image" src="https://github.com/user-attachments/assets/0dae61c8-1b0b-4aec-8086-44a69eeb0fc6" />
 
 **RESULT:**
 Thus a RC Phase Shift and Wien Bridge oscillators designed and tested using op-amp IC 741.
